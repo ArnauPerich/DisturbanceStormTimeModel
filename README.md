@@ -50,13 +50,13 @@ We start by processing the solar wind data set. First, missing data is imputed u
 
 <div align="center">
   <figure style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="Img/bt_hist.png" alt="Distribution of the magnitude of the IMF" width="200">
+    <img src="Img/bt_hist.png" alt="Distribution of the magnitude of the IMF" width="250">
   </figure>
   <figure style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="Img/density_hist.png" alt="Distribution of the proton density" width="200">
+    <img src="Img/density_hist.png" alt="Distribution of the proton density" width="250">
   </figure>
   <figure style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="Img/temperature_hist.png" alt="Distribution of the proton temperature" width="200">
+    <img src="Img/temperature_hist.png" alt="Distribution of the proton temperature" width="250">
   </figure>
 </div>
 
@@ -194,13 +194,13 @@ where $F$ denotes the distribution function. Similarly to what was done to model
 
 <div align="center">
   <figure style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="Img/all_quantile.png" alt="QQ-plot performed on different sequences showing indications of heavy tails" width="200">
+    <img src="Img/all_quantile.png" alt="QQ-plot performed on different sequences showing indications of heavy tails" width="250">
   </figure>
   <figure style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="Img/all_dist_funct.png" alt="Distribution function of the logistic model fitted to the data" width="200">
+    <img src="Img/all_dist_funct.png" alt="Distribution function of the logistic model fitted to the data" width="250">
   </figure>
   <figure style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="Img/all_dens_funct.png" alt="Density function of the logistic model fitted to the data" width="200">
+    <img src="Img/all_dens_funct.png" alt="Density function of the logistic model fitted to the data" width="250">
   </figure>
 </div>
 
